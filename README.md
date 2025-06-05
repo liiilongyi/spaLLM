@@ -20,3 +20,9 @@ torch==1.12.0+cu113
 matplotlib==3.4.2
 seaborn==0.11.2
 scikit-learn==1.1.2
+```
+
+## Acknowledgements
+
+Parts of the code are adapted from [SpatialGlue](https://github.com/JinmiaoChenLab/SpatialGlue).  
+We thank the developers of [SpatialGlue](https://github.com/JinmiaoChenLab/SpatialGlue) and [scGPT](https://github.com/bowang-lab/scGPT) for their valuable open-source contributions.
